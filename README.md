@@ -4,6 +4,10 @@
 Created by: Nabil Syah
 Role: Clinic Administrator & Healthcare Operations
 
+## Dashboard Preview
+
+![Dashboard](screenshots/dashboard.png)
+
 ---
 
 # 📌 Project Overview

@@ -272,6 +272,9 @@ This project demonstrates practical skills in:
 - Real-world workflow automation
 - Error reduction systems
 
+# AI-Assisted Development Notice
+
+This project was created using AI-assisted development tools to accelerate coding, documentation, and problem-solving processes. All project requirements, architecture decisions, feature selection, testing, debugging, and final implementation were reviewed and managed by the developer.
 
 # 👤 About the Creator
 
